@@ -1,5 +1,5 @@
-{
-  "menu": [
+[
+ 
     {
       "name": "Spicy Tofu Stir-fry",
       "price": "$5.2",
@@ -100,5 +100,5 @@
       "price": "$7.4",
       "image": "https://raw.githubusercontent.com/username/repository/branch/images/img20.jpg"
     }
-  ]
-}
+  
+]
