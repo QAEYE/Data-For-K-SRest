@@ -13,22 +13,22 @@
     {
       "name": "Mango Avocado Salad",
       "price": "$4.5",
-      "image": "https://raw.githubusercontent.com/QAEYE/Data-For-K-SRest/main/images/img3.jpg"
+      "image": "https://raw.githubusercontent.com/QAEYE/Data-For-K-SRest/main/images/img3.png"
     },
     {
       "name": "Vegetarian Lasagna",
       "price": "$6.3",
-      "image": "https://raw.githubusercontent.com/QAEYE/Data-For-K-SRest/main/images/img4.jpg"
+      "image": "https://raw.githubusercontent.com/QAEYE/Data-For-K-SRest/main/images/img4.png"
     },
     {
       "name": "Chili Lime Chicken",
       "price": "$8.1",
-      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img5.jpg"
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img5.png"
     },
     {
       "name": "Balsamic Glazed Salmon",
       "price": "$9.4",
-      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img6.jpg"
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img6.png"
     },
     {
       "name": "Quinoa Stuffed Peppers",
@@ -38,22 +38,22 @@
     {
       "name": "Coconut Curry Soup",
       "price": "$4.8",
-      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img8.jpg"
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img8.jpeg"
     },
     {
       "name": "Pesto Zucchini Noodles",
       "price": "$6.0",
-      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img9.jpg"
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img9.jpeg"
     },
     {
       "name": "Honey Garlic Pork Chops",
       "price": "$7.2",
-      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img10.jpg"
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img10.jpeg"
     },
     {
       "name": "Roasted Beet Salad",
       "price": "$5.3",
-      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img11.jpg"
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img11.jpeg"
     },
     {
       "name": "Sesame Crusted Tuna",
