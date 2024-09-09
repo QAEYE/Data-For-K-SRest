@@ -1,0 +1,94 @@
+[
+ 
+    {
+      "name": "Mango Avocado Salad",
+      "price": "$4.5",
+      "image": "https://raw.githubusercontent.com/QAEYE/Data-For-K-SRest/main/images/img3.png"
+    },
+    {
+      "name": "Vegetarian Lasagna",
+      "price": "$6.3",
+      "image": "https://raw.githubusercontent.com/QAEYE/Data-For-K-SRest/main/images/img4.png"
+    },
+    {
+      "name": "Chili Lime Chicken",
+      "price": "$8.1",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img5.png"
+    },
+    {
+      "name": "Balsamic Glazed Salmon",
+      "price": "$9.4",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img6.png"
+    },
+    {
+      "name": "Quinoa Stuffed Peppers",
+      "price": "$5.7",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img7.jpg"
+    },
+    {
+      "name": "Coconut Curry Soup",
+      "price": "$4.8",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img8.jpeg"
+    },
+    {
+      "name": "Pesto Zucchini Noodles",
+      "price": "$6.0",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img9.jpeg"
+    },
+    {
+      "name": "Honey Garlic Pork Chops",
+      "price": "$7.2",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img10.jpeg"
+    },
+    {
+      "name": "Roasted Beet Salad",
+      "price": "$5.3",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img11.jpeg"
+    },
+    {
+      "name": "Sesame Crusted Tuna",
+      "price": "$9.1",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img12.jpg"
+    },
+    {
+      "name": "Lentil & Veggie Stew",
+      "price": "$4.9",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img13.jpg"
+    },
+    {
+      "name": "Grilled Caprese Sandwich",
+      "price": "$6.5",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img14.jpg"
+    },
+    {
+      "name": "Cajun Chicken Pasta",
+      "price": "$7.7",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img15.jpg"
+    },
+    {
+      "name": "Avocado Toast with Eggs",
+      "price": "$4.3",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img16.jpg"
+    },
+    {
+      "name": "Garlic Butter Steak Bites",
+      "price": "$8.5",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img17.jpg"
+    },
+    {
+      "name": "Mushroom Risotto",
+      "price": "$6.8",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img18.jpg"
+    },
+    {
+      "name": "Crispy Baked Falafel",
+      "price": "$5.1",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img19.jpg"
+    },
+    {
+      "name": "Lemon Herb Grilled Chicken",
+      "price": "$7.4",
+      "image": "https://raw.githubusercontent.com/username/repository/branch/images/img20.jpg"
+    }
+  
+]
